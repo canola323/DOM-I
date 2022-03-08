@@ -64,5 +64,5 @@ ctaContent.textContent = siteContent.cta["h1"];
 button.textContent = siteContent.cta["button"];
 ctaImg.src = siteContent.images["cta-img"];
 
-topContent
+topContent.textContent = siteContent["main-content"]
 
